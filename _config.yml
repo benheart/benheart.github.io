@@ -1,4 +1,4 @@
-markdown:         rdiscount
+markdown:         kramdown
 gems:             [jekyll-paginate]
 highlighter:      true
 paginate:         4

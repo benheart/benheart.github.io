@@ -5,36 +5,36 @@ description: 基于简单而又有质感的理念，<a href="http://www.pizn.me"
 key: pizn theme, Black Cube
 ---
 
-###"BLACKQUERY"标签：
+### "BLACKQUERY"标签：
 
 > Your time is limited, so don't waste it living someone else's life.…Don't let the noise of others' opinions drown out your own inner voice.
 
-###"H"标签：
+### "H"标签：
 
-#如何创建漂亮的 Jekyll 模板(h1)
+# 如何创建漂亮的 Jekyll 模板(h1)
 
-##如何创建漂亮的 Jekyll 模板(h2)
+## 如何创建漂亮的 Jekyll 模板(h2)
 
-###如何创建漂亮的 Jekyll 模板(h3)
+### 如何创建漂亮的 Jekyll 模板(h3)
 
-####如何创建漂亮的 Jekyll 模板(h4)
+#### 如何创建漂亮的 Jekyll 模板(h4)
 
-#####如何创建漂亮的 Jekyll 模板(h5)
+##### 如何创建漂亮的 Jekyll 模板(h5)
 
-#####如何创建漂亮的 Jekyll 模板(h6)
+##### 如何创建漂亮的 Jekyll 模板(h6)
 
-###"P"标签：
+### "P"标签：
 
 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 
-###"LI"标签：
+### "LI"标签：
 
 * 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 * 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 * 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 * 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 
-###"CODE" 和 "PRE"：<code class="code">Hello world</code>
+### "CODE" 和 "PRE"：<code class="code">Hello world</code>
 
 <pre>
 .head {
@@ -45,10 +45,10 @@ key: pizn theme, Black Cube
 }
 </pre>
 
-###"IMG"标签：图片提供 3 种样式，分别是<code class="code">img-center</code>, <code class="code">img-right</code>, <code class="code">img-left</code>
+### "IMG"标签：图片提供 3 种样式，分别是<code class="code">img-center</code>, <code class="code">img-right</code>, <code class="code">img-left</code>
 <img src="/images/psb.jpg" class="img-center" width: 400px; alt="thumb" >
 
-###"TABLE"标签：
+### "TABLE"标签：
 
 <table width="100%">
 	<tbody>
@@ -83,4 +83,3 @@ key: pizn theme, Black Cube
 		</tr>
 	</tbody>
 </table>
-
