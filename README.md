@@ -1,6 +1,6 @@
 ### BenHeart's Blog
 
-* version       :  1.0
+* version       :  0.1
 * name          :  BenHeart's Blog
 * author        :  BenHeart
 * create        :  2017-06-07

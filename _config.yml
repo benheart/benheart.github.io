@@ -5,17 +5,17 @@ paginate:         4
 
 title:            BenHeart's Blog
 url:              https://benheart.github.io/
-feed:             /atom.xml
 author:
-    name:         Ben Hu
+    name:         BenHeart
     email:        geek.hu@qq.com
 description:      "Ben's blog -- A place to record my study, work and life."
-
 about: 			  "A graduate from HIT, attention to the network programming, website development, data mining."
+
+style: 			  /css/style.css
+feed:             /atom.xml
+blogName: 		  BenHeart
+blogDesc: 		  Coder & Geeker
+
 follow:
     github:       https://github.com/benheart
     facebook:     https://www.facebook.com/wenjun.hu.792
-
-style: 			  /css/style.css
-blogName: 		  BenHeart
-blogDesc: 		  Coder & Geeker
