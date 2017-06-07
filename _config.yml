@@ -1,10 +1,10 @@
 markdown:         kramdown
 gems:             [jekyll-paginate]
-highlighter:      true
+highlighter:      rouge
 paginate:         4
 
 title:            BenHeart's Blog
-url:              http://www.benheart.com
+url:              https://benheart.github.io/
 feed:             /atom.xml
 author:
     name:         Ben Hu
