@@ -1,0 +1,21 @@
+markdown:         rdiscount
+gems:             [jekyll-paginate]
+highlighter:      true
+paginate:         4
+
+title:            BenHeart's Blog
+url:              http://www.benheart.com
+feed:             /atom.xml
+author:
+    name:         Ben Hu
+    email:        geek.hu@qq.com
+description:      "Ben's blog -- A place to record my study, work and life."
+
+about: 			  "A graduate from HIT, attention to the network programming, website development, data mining."
+follow:
+    github:       https://github.com/benheart
+    facebook:     https://www.facebook.com/wenjun.hu.792
+
+style: 			  /css/style.css
+blogName: 		  BenHeart
+blogDesc: 		  Coder & Geeker
