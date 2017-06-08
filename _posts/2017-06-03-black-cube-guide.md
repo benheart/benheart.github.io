@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Jekyll Blog 主题 Black Cube 1.0
+title: Black Cube 主题使用手册
 description: 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法。
 key: pizn theme, Black Cube
 ---
+
+* 目录
+{:toc}
 
 ### "BLACKQUERY"标签：
 
@@ -12,16 +15,22 @@ key: pizn theme, Black Cube
 ### "H"标签：
 
 # 如何创建漂亮的 Jekyll 模板(h1)
+{:.no_toc}
 
 ## 如何创建漂亮的 Jekyll 模板(h2)
+{:.no_toc}
 
 ### 如何创建漂亮的 Jekyll 模板(h3)
+{:.no_toc}
 
 #### 如何创建漂亮的 Jekyll 模板(h4)
+{:.no_toc}
 
 ##### 如何创建漂亮的 Jekyll 模板(h5)
+{:.no_toc}
 
 ##### 如何创建漂亮的 Jekyll 模板(h6)
+{:.no_toc}
 
 ### "P"标签：
 
@@ -34,27 +43,40 @@ key: pizn theme, Black Cube
 * 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 * 基于简单而又有质感的理念，<a href="http://www.pizn.me" target="_blank">PIZn</a> 设计并编写了这个主题。下面介绍文章页的一些标签使用方法
 
-### "CODE" 和 "PRE"：<code class="code">Hello world</code>
+### "CODE" 和 "PRE"：
+<code class="code">Hello world</code>
 
-<pre>
-.head {
-	border: 1px solid #fefefe;
-	color: #F00;
-	background: #000;
-	text-align: center;
+{% highlight java %}
+/**
+ * ElasticSearch configuration.
+ */
+@Bean(destroyMethod = "close")
+public Client client() throws Exception {
+    Client client = null;
+    try {
+        // set ping schedule execute every 10 min.
+        Settings settings = Settings.settingsBuilder()
+                .put("transport.ping_schedule", "600s").build();
+
+    } catch (Exception e) {
+        LOG.warn("Create es client failed, no ip or port param, " +
+                "or connect es timeout. Error msg: {}", e.getMessage());
+    }
+    return client;
 }
-</pre>
+{% endhighlight %}
 
-### "IMG"标签：图片提供 3 种样式，分别是<code class="code">img-center</code>, <code class="code">img-right</code>, <code class="code">img-left</code>
-<img src="/images/psb.jpg" class="img-center" width: 400px; alt="thumb" >
+### "IMG"标签：
+图片提供 3 种样式，分别是<code class="code">img-center</code>, <code class="code">img-right</code>, <code class="code">img-left</code>  
+<img src="/images/psb.jpg" class="img-center" style="width: 400px;" alt="thumb" >
 
 ### "TABLE"标签：
 
 <table width="100%">
 	<tbody>
 		<tr>
-			<th width="20%">命令</th>
-			<th width="80%">作用（解释)</th>
+			<th width="30%">命令</th>
+			<th width="70%">作用（解释)</th>
 		</tr>
 		<tr>
 			<td>
