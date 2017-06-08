@@ -134,6 +134,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 
 /** follow ico **/
 .foot-cnt-det .ico-google   { background: url(/images/google_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-zhihu   { background: url(/images/zhihu_32.png) no-repeat 0 0; }
 .foot-cnt-det .ico-rss      { background: url(/images/rss_32.png) no-repeat 0 0; }
 .foot-cnt-det .ico-flickr   { background: url(/images/flickr_32.png) no-repeat 0 0; }
 .foot-cnt-det .ico-twitter  { background: url(/images/twitter_32.png) no-repeat 0 0; }
