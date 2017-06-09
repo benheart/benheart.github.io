@@ -80,7 +80,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .content-cnt .main-excerpt .date
                             { font-style: italic; color: #888; }
 .content-cnt .main-excerpt-title
-                            { font-size: 26px; font-family: Georgia; text-transform: uppercase; text-shadow: 1px 1px #FFFFFF; }
+                            { font-size: 26px; font-family: Georgia; text-shadow: 1px 1px #FFFFFF; }
 .content-cnt .main-excerpt p
                             { font-size:  14px; margin-bottom: 10px; font-family: Georgia; color: #484848; }
 .content-cnt .main-excerpt p a
@@ -197,7 +197,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .entry .code                { margin: 0 3px; padding: 0 3px; background: #808080; font: 12px Menlo,Monaco,Consolas,"Courier New",monospace; color: #f8f8f8; border-radius: 2px 2px; }
 
 /** entry special **/
-.entry .title               { margin-bottom: 10px; font-family: Georgia; padding: 0 0; font-size: 26px; font-weight: 400; line-height: 32px; color: #383535; text-align: center; text-shadow: 1px 1px #FFFFFF; text-transform: uppercase; }
+.entry .title               { margin-bottom: 10px; font-family: Georgia; padding: 0 0; font-size: 26px; font-weight: 400; line-height: 32px; color: #383535; text-align: center; text-shadow: 1px 1px #FFFFFF; }
 .entry .meta                { text-align: center; color: #888; font-family: "Times New Roman",Times,serif; font-size: 13px; text-indent: 0; font-weight: 600; }
 .entry .meta .date          { color: #888; } .entry .meta .author { padding-right: 4px; }
 .entry .description         { padding: 8px 12px; font-style: italic; text-align: left; color: #888; text-indent: 0; border-top: 1px dashed #a0a0a0; border-bottom: 1px dashed #a0a0a0; }
@@ -221,7 +221,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .article-box p              { padding: 10px 10px 0 10px; font-size: 12px; color: #e8e8e8; }
 .article-box p a            { border-bottom: 1px dotted #686868; color: #a9a9a9; }
 .article-box p a:hover      { background: #e8e8e8; color: #202020; border-bottom: 1px solid #777; text-decoration: none; }
-.article-box .title         { margin-top: 10px; padding: 4px 4px 4px 0; font-size: 20px; width: 185px; font-family: Georgia; text-transform: uppercase; background: #2f3133; border-radius: 0 8px 8px 0; box-shadow: 1px 1px 3px #121212; }
+.article-box .title         { margin-top: 10px; padding: 4px 4px 4px 0; font-size: 20px; width: 185px; font-family: Georgia; background: #2f3133; border-radius: 0 8px 8px 0; box-shadow: 1px 1px 3px #121212; }
 .article-box .title a       { color: #e8e8e8; display: block; padding-left: 10px; border-top: 1px dashed #a8a8a8; border-right: 1px dashed #a8a8a8; border-bottom: 1px dashed #a8a8a8; border-radius: 3px 3px; }
 .article-box .title a:hover { color: #fefefe; text-decoration: none; }
 .article-box .date          { font-family: Georgia; color: #888; font-style: italic; }
