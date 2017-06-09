@@ -1,7 +1,7 @@
 markdown:         kramdown
 gems:             [jekyll-paginate]
 highlighter:      rouge
-paginate:         4
+paginate:         5
 
 title:            BenHeart's Blog
 url:              https://benheart.github.io/
@@ -19,5 +19,5 @@ blogDesc: 		  Coder & Geeker
 follow:
     github:       https://github.com/benheart
     zhihu:        https://www.zhihu.com/people/benheart
-    facebook:     facebook.com/benheart.hu
+    facebook:     https://www.facebook.com/benheart.hu
     linkedin:     https://www.linkedin.com/in/benheart
