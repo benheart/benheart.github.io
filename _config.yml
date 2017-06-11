@@ -5,11 +5,11 @@ paginate:         5
 
 title:            BenHeart's Blog
 url:              https://benheart.github.io/
+description:      "Ben's blog -- A place to record my study, work and life."
 author:
     name:         BenHeart
     email:        geek.hu@qq.com
-description:      "Ben's blog -- A place to record my study, work and life."
-about: 			  "A graduate from HIT, attention to the network programming, website development, data mining."
+    about:        "A graduate from HIT, attention to the Network Programming, Website Development, Data Mining."
 
 style: 			  /css/style.css
 feed:             /atom.xml
