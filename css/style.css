@@ -159,9 +159,9 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .entry                      { padding-top: 10px; color: #333; font-family: Georgia, "Microsoft Yahei","Microsoft Jhenghei",STHeiti,PMingLiU,Simsun; }
 .entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6
                             { margin: 0; padding: 0; font-family: Georgia, "Microsoft Yahei","Microsoft Jhenghei",STHeiti,PMingLiU,Simsun; }
-.entry h1                   { padding: 3px 0; font-size: 20px; line-height: normal; margin-bottom: 20px; color: #383535; font-weight: 700; border-bottom: 1px dashed #a8a8a8; }
+.entry h1                   { padding: 3px 0; font-size: 20px; line-height: normal; margin-bottom: 20px; color: #383535; font-weight: 800; border-bottom: 1px dashed #a8a8a8; }
 .entry h2                   { margin-bottom: 20px; color: #383535; padding: 3px 0; font-size: 18px; line-height: normal; border-bottom: 1px dashed #a8a8a8; font-family: 700; }
-.entry h3                   { font-size: 16px; font-weight: 700; line-height: 26px; color: #383535; border-bottom: 1px dashed #a8a8a8; margin-bottom: 18px; margin-top: 1.5em; }
+.entry h3                   { font-size: 16px; font-weight: 800; line-height: 26px; color: #383535; border-bottom: 1px dashed #a8a8a8; margin-bottom: 18px; margin-top: 1.5em; }
 .entry h4                   { margin-bottom: 18px; font-size: 14px; font-weight: 700; color: #383535; line-height: 26px; text-transform: uppercase; }
 .entry h5                   { margin-bottom: 18px; color: #383535; font-size: 14px; line-height: 26px; text-transform: uppercase; }
 .entry h6                   { font-size: 13px; font-weight: 700; margin-bottom: 0.5em; color: #383535; line-height: 26px; }
@@ -169,7 +169,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
                             { border: 0 none; }
 .entry p                    { font-size: 13px; line-height: 22px; margin-bottom: 15px; }
 .entry > p:first-child      { margin: 0.8em 0; text-indent: 0; }
-.entry ul, .entry ol        { padding-bottom: 15px; margin-left: 24px; margin-top: 0.6em; }
+.entry ul, .entry ol        { margin-left: 24px; margin-top: 0.6em; }
 .entry ul li, .entry ol li  { font-size: 13px; color: #555; margin: 0.5em 0; }
 .entry ul li                { list-style-type: square; }
 .entry ol li                { list-style-type: decimal; }
@@ -189,7 +189,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
                             { border-right: none; }
 .entry * tr th              { font-weight: 700; }
 .entry em                   { font-size: 14px; font-style: italic; color: #555; }
-.entry strong               { font-weight: 700; font-family: "Times New Roman",Times,serif; }
+.entry strong               { font-weight: 800; font-family: "Times New Roman",Times,serif; }
 .entry a                    { border-bottom: 1px dotted #686868; color: #454545; }
 .entry a:hover              { background: #e8e8e8; border-bottom: 1px solid #777; text-decoration: none; }
 .entry pre                  { background-color: #272822;  border: 1px solid #272822;  border-left-width: 5px; margin: 10px 0 10px 0; overflow:  auto; color: #e8e8e8; border-radius: 3px 3px 3px 3px; }
