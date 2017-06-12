@@ -162,7 +162,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .entry h1                   { padding: 3px 0; font-size: 20px; line-height: normal; margin-bottom: 20px; color: #383535; font-weight: 800; border-bottom: 1px dashed #a8a8a8; }
 .entry h2                   { margin-bottom: 20px; color: #383535; padding: 3px 0; font-size: 18px; line-height: normal; border-bottom: 1px dashed #a8a8a8; font-family: 700; }
 .entry h3                   { font-size: 16px; font-weight: 800; line-height: 26px; color: #383535; border-bottom: 1px dashed #a8a8a8; margin-bottom: 18px; margin-top: 1.5em; }
-.entry h4                   { margin-bottom: 18px; font-size: 14px; font-weight: 700; color: #383535; line-height: 26px; text-transform: uppercase; }
+.entry h4                   { margin-bottom: 18px; font-size: 14px; font-weight: 700; color: #383535; line-height: 26px; }
 .entry h5                   { margin-bottom: 18px; color: #383535; font-size: 14px; line-height: 26px; text-transform: uppercase; }
 .entry h6                   { font-size: 13px; font-weight: 700; margin-bottom: 0.5em; color: #383535; line-height: 26px; }
 .entry > h2:first-child, .entry > h1:first-child, .entry > h1:first-child + h2
