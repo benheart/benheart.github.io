@@ -68,7 +68,7 @@ public Client client() throws Exception {
 
 ### "IMG"标签：
 图片提供 3 种样式，分别是<code class="code">img-center</code>, <code class="code">img-right</code>, <code class="code">img-left</code>  
-<img src="/images/psb.jpg" class="img-center" style="width: 400px;" alt="thumb" >
+<img src="/images/hacker.jpg" class="img-center" style="width: 400px;" alt="thumb" >
 
 ### "TABLE"标签：
 

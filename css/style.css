@@ -59,14 +59,14 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .head                       { padding: 5px 0 4px 0; height: 71px; width: 100%; background: #36393e url(/images/bg.png) repeat 0 0; box-shadow: 2px 2px 4px #ababab; }
 .header                     { border-top: 1px dashed #a0a0a0; border-bottom: 1px dashed #aaa; height: 69px; }
 .header-cnt                 { width: 900px; height: 54px; padding-top: 15px; margin: 0 auto; position: relative; }
-.header-cnt .logo           { padding: 4px 4px; height: 80px; background: #2f3133; border-radius: 0 0 14px 14px; position: absolute; top: -5px; left: 0; text-align: center; box-shadow: -1px -1px 2px #333 inset; box-shadow: 0px 0px 5px #272c32; }
+.header-cnt .logo           { padding: 4px 4px; height: 80px; background: #2f3133; border-radius: 0 0 14px 14px; position: absolute; top: -5px; left: 0; text-align: center; box-shadow: 0 0 5px #272c32; }
 .header-cnt .logo-cnt       { height: 78px; border-radius: 0 0 10px 10px; border-left: 1px dashed #aaa; border-right: 1px dashed #aaa; border-bottom: 1px dashed #aaa; }
-.header-cnt .logo-cnt h1    { padding: 0px 10px 0px 10px; font-size: 28px; color: #eeeeee; font-family: "Times New Roman",Times,serif; }
+.header-cnt .logo-cnt h1    { padding: 0 10px 0 10px; font-size: 28px; color: #eeeeee; font-family: "Times New Roman",Times,serif; }
 .header-cnt .logo-cnt h1 a  { color: #eeeeee; }
 .header-cnt .logo-cnt a:hover
                             { text-decoration: none; color: #f6f6f6; text-shadow: 1px 1px 2px #444; }
-.header-cnt .logo-cnt h2    { font-style: italic; color: #ababab; padding:  0px 10px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; }
-.header-cnt .nav            { float: right; margin: 0 0 0 300px; height: 36px; padding: 0px 20px; background: #2f3133; border-radius: 8px 8px; border-top: 1px solid #252a30; border-left: 1px solid #252a30; border-right: 1px solid #252a30; border-bottom: 1px solid #4a4d52; box-shadow: -2px -2px 8px #222222 inset; }
+.header-cnt .logo-cnt h2    { font-style: italic; color: #ababab; padding:  0 10px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; }
+.header-cnt .nav            { float: right; margin: 0 0 0 300px; height: 36px; padding: 0 20px; background: #2f3133; border-radius: 8px 8px; border-top: 1px solid #252a30; border-left: 1px solid #252a30; border-right: 1px solid #252a30; border-bottom: 1px solid #4a4d52; box-shadow: -2px -2px 8px #222222 inset; }
 .header-cnt .nav li         { float: left; }
 .header-cnt .nav li a       { padding: 9px 20px 8px 20px; display: block; color: #999; font-family: Verdana; }
 .header-cnt .nav li a:hover { text-decoration: none; color: #fefefe; }
@@ -108,11 +108,11 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
                             { color: #fefefe; text-decoration: none; background: #555; border-bottom: 1px solid #222; }
 
 /** foot **/
-.foot                       { width: 100%; padding: 4px 0 10px 0; background: #202020; box-shadow: 0px -1px 8px #888; }
+.foot                       { width: 100%; padding: 4px 0 10px 0; background: #202020; box-shadow: 0 -1px 8px #888; }
 .foot-cnt                   { width: 100%; height: auto; border-top: 1px dashed #aaaaaa; border-bottom: 1px dashed #aaaaaa; background: url(/images/bg.png) repeat 0 0; }
 .foot-cnt-det               { width: 900px; margin: 0 auto; }
 .foot-cnt-det .title        { font-size:  14px; color: #eee; border-bottom: 1px double #555555; margin-bottom: 10px; }
-.foot-cnt-det .blogroll     { float:  left; margin-right: 40px; width: 230px; height: auto; padding: 10px 0 20px 0px; }
+.foot-cnt-det .blogroll     { float:  left; margin-right: 40px; width: 230px; height: auto; padding: 10px 0 20px 0; }
 .foot-cnt-det .blogroll li  { line-height: 20px; margin-bottom: 4px; color: #fefefe; }
 .foot-cnt-det .blogroll li a
                             { margin-left: 8px; color: #a0a0a0; }
@@ -133,15 +133,13 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .foot-btn-det .author       { float: right; }
 
 /** follow ico **/
-.foot-cnt-det .ico-google   { background: url(/images/google_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-zhihu   { background: url(/images/zhihu_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-rss      { background: url(/images/rss_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-flickr   { background: url(/images/flickr_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-twitter  { background: url(/images/twitter_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-facebook { background: url(/images/facebook_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-vimeo    { background: url(/images/vimeo_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-github   { background: url(/images/github_32.png) no-repeat 0 0; }
-.foot-cnt-det .ico-linkedin { background: url(/images/linkedin_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-google   { background: url(/images/social-media/google_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-zhihu   { background: url(/images/social-media/zhihu_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-rss      { background: url(/images/social-media/rss_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-twitter  { background: url(/images/social-media/twitter_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-facebook { background: url(/images/social-media/facebook_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-github   { background: url(/images/social-media/github_32.png) no-repeat 0 0; }
+.foot-cnt-det .ico-linkedin { background: url(/images/social-media/linkedin_32.png) no-repeat 0 0; }
 
 /*--------------------------------------------
                 page
@@ -160,7 +158,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6
                             { margin: 0; padding: 0; font-family: Georgia, "Microsoft Yahei","Microsoft Jhenghei",STHeiti,PMingLiU,Simsun; }
 .entry h1                   { padding: 3px 0; font-size: 20px; line-height: normal; margin-bottom: 20px; color: #383535; font-weight: 800; border-bottom: 1px dashed #a8a8a8; }
-.entry h2                   { margin-bottom: 20px; color: #383535; padding: 3px 0; font-size: 18px; line-height: normal; border-bottom: 1px dashed #a8a8a8; font-family: 700; }
+.entry h2                   { margin-bottom: 20px; color: #383535; padding: 3px 0; font-size: 18px; line-height: normal; border-bottom: 1px dashed #a8a8a8; font-weight: 700; }
 .entry h3                   { font-size: 16px; font-weight: 800; line-height: 26px; color: #383535; border-bottom: 1px dashed #a8a8a8; margin-bottom: 18px; margin-top: 1.5em; }
 .entry h4                   { margin-bottom: 18px; font-size: 14px; font-weight: 700; color: #383535; line-height: 26px; }
 .entry h5                   { margin-bottom: 18px; color: #383535; font-size: 14px; line-height: 26px; text-transform: uppercase; }
