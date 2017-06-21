@@ -158,7 +158,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6
                             { margin: 0; padding: 0; font-family: Georgia, "Microsoft Yahei","Microsoft Jhenghei",STHeiti,PMingLiU,Simsun; }
 .entry h1                   { padding: 3px 0; font-size: 20px; line-height: normal; margin-bottom: 20px; color: #383535; font-weight: 800; border-bottom: 1px dashed #a8a8a8; }
-.entry h2                   { margin-bottom: 20px; color: #383535; padding: 3px 0; font-size: 18px; line-height: normal; border-bottom: 1px dashed #a8a8a8; font-weight: 700; }
+.entry h2                   { margin-bottom: 20px; color: #383535; padding: 3px 0; font-size: 18px; line-height: normal; border-bottom: 1px dashed #a8a8a8; font-weight: 800; }
 .entry h3                   { font-size: 16px; font-weight: 800; line-height: 26px; color: #383535; border-bottom: 1px dashed #a8a8a8; margin-bottom: 18px; margin-top: 1.5em; }
 .entry h4                   { margin-bottom: 18px; font-size: 14px; font-weight: 700; color: #383535; line-height: 26px; }
 .entry h5                   { margin-bottom: 18px; color: #383535; font-size: 14px; line-height: 26px; text-transform: uppercase; }
@@ -190,7 +190,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .entry strong               { font-weight: 800; font-family: "Times New Roman",Times,serif; }
 .entry a                    { border-bottom: 1px dotted #686868; color: #454545; }
 .entry a:hover              { background: #e8e8e8; border-bottom: 1px solid #777; text-decoration: none; }
-.entry pre                  { background-color: #2f3133;  border: 1px solid #2f3133;  border-left-width: 5px; margin: 10px 0 10px 0; overflow:  auto; color: #e8e8e8; border-radius: 3px 3px 3px 3px; }
+.entry pre                  { background-color: #272822;  border: 1px solid #272822;  border-left-width: 5px; margin: 10px 0 10px 0; overflow:  auto; color: #e8e8e8; border-radius: 3px 3px 3px 3px; }
 .entry code                 { font: 12px/1.5 Georgia,"Courier New",monospace; }
 .entry .code                { margin: 0 3px; padding: 0 3px; background: #808080; font: 12px Menlo,Monaco,Consolas,"Courier New",monospace; color: #f8f8f8; border-radius: 2px 2px; }
 
@@ -230,7 +230,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .highlight pre              { background-color: #272822; }
 .highlight .hll             { background-color: #272822; }
 .highlight .c               { color: #75715e } /* Comment */
-.highlight .err             { color: #960050; background-color: #1e0010 } /* Error */
+.highlight .err             { color: #960050 } /* Error */
 .highlight .k               { color: #66d9ef } /* Keyword */
 .highlight .l               { color: #ae81ff } /* Literal */
 .highlight .n               { color: #f8f8f2 } /* Name */
