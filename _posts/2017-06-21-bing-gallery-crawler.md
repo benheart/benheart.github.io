@@ -2,7 +2,7 @@
 layout: post
 title: Bing 首页图片合集抓取
 description: 微软 Bing 首页以每日更新高质量壁纸而闻名，很多人喜欢下载作为桌面壁纸，本文介绍一种抓取 Bing 首页图片合集的思路
-key: bing, gallery, crawler
+key: bing, bing-wallpaper, crawler
 ---
 
 ### 抓取来源
@@ -21,9 +21,10 @@ key: bing, gallery, crawler
 <img src="/images/bing-gallery-crawler/pic-3.png" class="img-center" style="width: 100%;" >
 点击图片查看详情，按下 Ctrl + Shift + C 点击大图，HTML 代码如图:
 <img src="/images/bing-gallery-crawler/pic-4.png" class="img-center" style="width: 100%;" >
-由此大胆猜测，图片 url 结构为: http(s)://az619519.vo.msecnd.net/files/\{img_name\}_\{resolution\}.jpg
+由此大胆猜测，图片 url 结构为: http(s)://az619519.vo.msecnd.net/files/\{img_name\}_\{resolution\}.jpg  
+只要获得 \{img_name\} 就可以抓取对应的图片了。
 
-打开 Network -> Doc 菜单，最开始 <code class="code">id="gird"</code> 的 div 块并没有数据，说明是通过 js 请求数据并渲染出来的
+打开 Network -> Doc 菜单，最开始 <code class="code">id="gird"</code> 的 div 块并没有数据，说明是通过 js 请求数据并渲染出来的:
 <img src="/images/bing-gallery-crawler/pic-5.png" class="img-center" style="width: 100%;" >
 打开 Network -> JS 菜单，果然看到我想要的数据:
 <img src="/images/bing-gallery-crawler/pic-6.png" class="img-center" style="width: 100%;" >
@@ -84,7 +85,7 @@ else:
     print "No match!"
 {% endhighlight %}
 
-- GitHub 源代码地址: [https://github.com/benheart](https://github.com/benheart){:target="_blank"}
+- GitHub 源代码地址: [https://github.com/benheart/BingGallery](https://github.com/benheart/BingGallery){:target="_blank"}
 
 ### 参考链接
 - Bing 图片下载 - 知乎: [https://www.zhihu.com/question/20583304](https://www.zhihu.com/question/20583304){:target="_blank"}
