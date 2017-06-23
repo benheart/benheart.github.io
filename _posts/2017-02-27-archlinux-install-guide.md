@@ -27,39 +27,39 @@ key: Linux, Arch Linux
 
 ### 常用程序
 - 网络
-{% highlight shell %}
+```
 pacman -S networkmanager
-{% endhighlight %}
+```
 
 - 输入法
-{% highlight shell %}
+```
 pacman -S fcitx fcitx-qt4 libidn lsb-release opencc xorg-xprop
 pacman -S fcitx-sogoupinyin
-{% endhighlight %}
+```
 
 - 通讯
   - QQ: [https://wiki.archlinux.org/index.php/Tencent_QQ_(简体中文)](https://wiki.archlinux.org/index.php/Tencent_QQ_(简体中文)){:target="_blank"}
   - WeChat: [https://github.com/geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat){:target="_blank"}
 
 - 代理
-{% highlight shell %}
+```
 pacman -S shadowsocks-qt5
 pacman -S proxychains
-{% endhighlight %}
+```
 
 ### 常用命令
 - 更新系统
-{% highlight shell %}
+```
 pacman -Syu
-{% endhighlight %}
+```
 - 安装程序
-{% highlight shell %}
+```
 pacman -S [options] package
-{% endhighlight %}
+```
 - 卸载程序
-{% highlight shell %}
+```
 pacman -R [options] package
-{% endhighlight %}
+```
 
 ### 注意事项
 - Arch 安装全过程需要从网络上下载多种依赖包，确保有网络连接。

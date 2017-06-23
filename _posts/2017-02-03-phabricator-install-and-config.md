@@ -20,25 +20,25 @@ key: TCP, HTTP
 Phabricator 是一个基于 Web 的工具软件，使用 PHP 语言编写，为使其正常运行，需要搭建一个 LNMP（Linux，Nginx，MySQL，PHP）的 Web Server 环境。
 - **Linux(Ubuntu)**
 - **Nginx**
-{% highlight shell %}
+```
 sudo apt-get install nginx
-{% endhighlight %}
+```
 - **MySQL**
-{% highlight shell %}
+```
 sudo apt-get install mysql-server
-{% endhighlight %}
+```
 - **PHP**:
-{% highlight shell %}
+```
 sudo apt-get install -y php5 php5-fpm php5-mysql
-{% endhighlight %}
+```
 
 #### Phabricator 源码下载
-{% highlight shell %}
+```
 $ cd somewhere/ # pick some install directory
 somewhere/ $ git clone https://github.com/phacility/libphutil.git
 somewhere/ $ git clone https://github.com/phacility/arcanist.git
 somewhere/ $ git clone https://github.com/phacility/phabricator.git
-{% endhighlight %}
+```
 
 ### 配置
 #### 基本配置
