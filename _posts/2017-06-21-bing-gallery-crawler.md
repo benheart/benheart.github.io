@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bing 首页图片合集抓取
-description: 微软 Bing 首页以每日更新高质量壁纸而闻名，很多人喜欢下载作为桌面壁纸，本文介绍一种抓取 Bing 首页图片合集的思路
+description: 微软 Bing 首页以每日更新高质量壁纸而闻名，很多人喜欢下载作为桌面壁纸，本文介绍一种抓取 Bing 首页图片合集的思路。
 key: bing, bing-wallpaper, crawler
 ---
 

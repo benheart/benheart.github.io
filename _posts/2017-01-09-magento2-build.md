@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magento2 搭建流程
-description: Magento2 是一个用 PHP 语言开发的开源电商平台，本文简单介绍下 Magento2 本地搭建流程
+description: Magento2 是一个用 PHP 语言开发的开源电商平台，本文简单介绍下 Magento2 本地搭建流程。
 key: TCP, HTTP
 ---
 

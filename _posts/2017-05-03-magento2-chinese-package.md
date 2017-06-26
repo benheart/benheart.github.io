@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magento2 中文化
-description: Magento2 是一个用 PHP 语言开发的开源电商平台，本文旨在介绍 Magento2 语言包的制作以及中文包的安装流程
+description: Magento2 是一个用 PHP 语言开发的开源电商平台，本文旨在介绍 Magento2 语言包的制作以及中文包的安装流程。
 key: Magento2, Chinese, zh_CN, language-package
 ---
 
