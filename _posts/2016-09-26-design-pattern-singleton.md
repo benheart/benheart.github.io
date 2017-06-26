@@ -50,7 +50,7 @@ public class Singleton {
 #### 饿汉式
 ```java
 public class Singleton {
-    private static Singleton instance = new Singleton();
+    private static final Singleton instance = new Singleton();
     private Singleton (){}
     
     public static Singleton getInstance() {

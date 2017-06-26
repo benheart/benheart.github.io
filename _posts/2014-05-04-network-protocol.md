@@ -8,10 +8,10 @@ key: IP, TCP, network-protocol
 ### 网络协议分层
 ![network-layers](/images/network-protocol/network-layers.jpg)
 
-### IP
+### IP 首部
 ![TP-header-format](/images/network-protocol/ip.png)
 
-### TCP
+### TCP 首部
 ![TCP-header-format](/images/network-protocol/tcp.png)
 
 ### 参考链接
