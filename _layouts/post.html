@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <section class="content">
 	<div class="content-cnt fn-clear">
@@ -24,5 +25,17 @@ layout: default
 			{% include wg-project.html %}
 			{% include wg-other.html %}
 		</div>
+
+		{% if site.comments %}
+		<div id="disqus_thread"></div>
+		<script>
+            (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = 'https://benheart.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+		</script>
+		{% endif %}
 	</div>
 </section>
