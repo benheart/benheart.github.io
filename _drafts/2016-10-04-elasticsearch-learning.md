@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elasticsearch 学习笔记
-description: 网络协议是互联网的基石，下面是对常用的几种网络协议进行简单的整理分析。
+description: Elasticsearch是一个实时分布式搜索和分析引擎。
 key: TCP, HTTP
 ---
 

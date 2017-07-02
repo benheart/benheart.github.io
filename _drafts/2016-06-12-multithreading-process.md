@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 多线程整理总结
-description: 网络协议是互联网的基石，下面是对常用的几种网络协议进行简单的整理分析。
+description: 本文主要介绍线程定义、创建、安全等常见问题
 key: TCP, HTTP
 ---
 
