@@ -1,5 +1,5 @@
 markdown:         kramdown
-gems:             [jekyll-paginate]
+plugins:          [jekyll-paginate]
 highlighter:      rouge
 paginate:         5
 comments:         true

@@ -6,13 +6,11 @@ key: bing, bing-wallpaper, crawler
 ---
 
 ### 抓取来源
-- 首页单张图片
-[https://www.bing.com](https://www.bing.com){:target="_blank"}
-- 官方首页图片合集
-[http://www.bing.com/gallery/](http://www.bing.com/gallery/){:target="_blank"}
+- 首页单张图片: [https://www.bing.com](https://www.bing.com){:target="_blank"}
+- 官方首页图片合集: ~~[http://www.bing.com/gallery/](http://www.bing.com/gallery/){:target="_blank"}~~(已失效)
 
 ### 分析思路
-由于本文需要抓取所有 Bing 首页图片的合集，所以选择 [http://www.bing.com/gallery/](http://www.bing.com/gallery/){:target="_blank"} 作为抓取来源。
+由于本文需要抓取所有 Bing 首页图片的合集，所以选择 ~~[http://www.bing.com/gallery/](http://www.bing.com/gallery/){:target="_blank"}~~(已失效) 作为抓取来源。
 用 Chrome 浏览器打开该网址，页面布局如图:
 <img src="/images/bing-gallery-crawler/pic-1.png" class="img-center" style="width: 100%;" >
 身为程序员，习惯性 F12 检查下页面元素，我发现所有图片都在 <code class="code">id="gird"</code> 的 div 块中，页面结构如图:
