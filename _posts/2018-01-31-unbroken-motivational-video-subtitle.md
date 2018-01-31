@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Unbroken - 励志视频字幕
-description: Unbroken - 选自 Youtube 观看次数近三千万的励志视频，本文整理了该视频的中英文字幕。原视频地址: [https://www.youtube.com/watch?v=26U_seo0a1g](https://www.youtube.com/watch?v=26U_seo0a1g){:target="_blank"}
+description: Unbroken - 选自 Youtube 观看次数近三千万的励志视频，本文整理了该视频的中英文字幕。原视频地址: https://www.youtube.com/watch?v=26U_seo0a1g
 key: unbroken, motivational video, subtitle
 ---
 
 ### 英文字幕
-you can only connect them looking backwards.
+You can only connect them looking backwards.
 
 So you have to trust that the dots will somehow connect in your future.
 
