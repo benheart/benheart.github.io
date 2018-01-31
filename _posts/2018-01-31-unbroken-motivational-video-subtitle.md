@@ -4,7 +4,7 @@ title: Unbroken - 励志视频字幕
 description: Unbroken - 选自 Youtube 观看次数近三千万的励志视频，本文整理了该视频的中英文字幕。
 key: unbroken, motivational video, subtitle
 ---
-> Unbroken - Motivational Video: https://www.youtube.com/watch?v=26U_seo0a1g
+> Unbroken - Motivational Video: [https://www.youtube.com/watch?v=26U_seo0a1g](https://www.youtube.com/watch?v=26U_seo0a1g){:target="_blank"}
 
 ### 英文字幕
 You can only connect them looking backwards.
