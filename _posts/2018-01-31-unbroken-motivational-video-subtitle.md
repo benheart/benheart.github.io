@@ -65,7 +65,7 @@ Most people give up on themselves easily.
 
 You know the human spirit is powerful?
 
-There is nothing as powerful. It''s hard to kill the human spirit!
+There is nothing as powerful. It's hard to kill the human spirit!
 
 Anybody can feel good when they have their health, their bills are paid, they have happy relationships.
 
@@ -121,7 +121,7 @@ Everyday you say 'no' to your dreams,
 
 you might be pushing your dreams back a whole six months, a whole year!
 
-That one single day, that one day you didn't get up could have pushed your stuff back, I don''t know how long.
+That one single day, that one day you didn't get up could have pushed your stuff back, I don't know how long.
 
 Don't allow your emotions to control you.
 
@@ -133,15 +133,15 @@ You want it
 
 and you're going to go all out to have it.
 
-It''s not going to be easy, when you want to change, it''s not easy.
+It's not going to be easy, when you want to change, it's not easy.
 
 If it were in fact easy, everybody would do it.
 
-But if you're serious, you''ll go all out.
+But if you're serious, you'll go all out.
 
 I'm in control here.
 
-I''m not going to let this get me down, I''m not going to let this destroy me.
+I'm not going to let this get me down, I'm not going to let this destroy me.
 
 I'm coming back!
 
