@@ -56,38 +56,12 @@ key: 搜索, 索引, 倒排索引, 分布式搜索, 集群
 
 <img src="/images/search-road/pic-4.svg" class="img-center" >
 
-<table width="100%">
-	<tbody>
-		<tr>
-			<th width="20%">7.1.x</th>
-			<th width="20%">7.0.6–7.0.x</th>
-			<th width="20%">7.0.5</th>
-			<th width="20%">7.0.4</th>
-			<th width="20%">7.0.3</th>
-		</tr>
-		<tr>
-			<td>×</td>
-			<td>√</td>
-			<td>×</td>
-			<td>√</td>
-			<td>×</td>
-		</tr>
-		<tr>
-            <th width="20%">7.0.2</th>
-            <th width="20%">7.0.0, 7.0.1</th>
-            <th width="20%">5.6.5–5.6.x</th>
-            <th width="20%">5.6.0–5.6.4</th>
-            <th width="20%">5.5.x</th>
-        </tr>
-        <tr>
-            <td>√</td>
-            <td>×</td>
-            <td>√</td>
-            <td>×</td>
-            <td>×</td>
-        </tr>
-	</tbody>
-</table>
+| 名词 |  解释  |
+| --- | ------- |
+| Web文档 | 网页类型数据，例如HTML |
+| 文件系统 | 文本类型的数据，例如DOC/CSV/XML等文件 |
+| 数据库 | 数据库类型的数据，例如MySQL/MongoDB |
+| 人工输入 | 人工按照指定格式输入的数据 |
 
 不论哪种类型数据源，只要可以进行数据提取，然后对数据进行文本分析，就可以创建索引入库。
 
