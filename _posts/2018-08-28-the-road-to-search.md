@@ -287,6 +287,6 @@ PUT /website/_settings
 
 [Elasticsearch 项目地址](https://github.com/elastic/elasticsearch){:target="_blank"}
 
-微信公众号 - 码农翻身 - 《搜索之路》
+[微信公众号 - 码农翻身 - 《搜索之路》](https://mp.weixin.qq.com/s/m31PcdCLTWuqmCUOMkhU4A){:target="_blank"}
 
-微信公众号 - 码农翻身 - 《搜索之路：Elasticsearch的诞生》
+[微信公众号 - 码农翻身 - 《搜索之路：Elasticsearch的诞生》](https://mp.weixin.qq.com/s/mnhtYvR_5N7gtIOgjSUJmA){:target="_blank"}
